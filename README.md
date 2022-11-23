@@ -4,8 +4,6 @@
 
 ---
 
-Arena Voxel
-
 ## Features
 
 - PVP MAP
@@ -13,6 +11,6 @@ Arena Voxel
 - Location: -3740.52, -3012.20, 545.27
 
 ## DMCA Protection Certificate
-![image](https://i.imgur.com/ZKgaF7B.png)
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045112624104349716/image.png)
 
 ##### Copyright © 2022 Malibú Tech. All rights reserved.
