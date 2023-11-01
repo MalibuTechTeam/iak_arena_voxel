@@ -8,7 +8,7 @@
 
 - PVP MAP
 - Showcase: [Click Here](https://www.youtube.com/watch?v=pyjiBbjvojA)
-- Location: -3740.52, -3012.20, 545.27
+- Location: -327.91, -1965.27, 79.57, 358.31
 
 ## DMCA Protection Certificate
 ![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045112624104349716/image.png)
